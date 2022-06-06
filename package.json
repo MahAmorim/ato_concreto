@@ -1,0 +1,19 @@
+{
+  "name": "ato-concreto-automacao",
+  "version": "1.0.0",
+  "description": "repository for the creation and management of automated tests related to the ato concreto project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://muralisti@dev.azure.com/muralisti/Ato%20Concreto/_git/ato-concreto-automacao"
+  },
+  "author": "Marcela Amorim and Lenita Misaki",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.0.2",
+    "cypress-keycloak-commands": "^1.2.0"
+  }
+}
